@@ -1,0 +1,972 @@
+#1830 to end
+song = {
+	name = "aupres_de_ma_blonde"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+		modifier = {
+			factor = 2
+			culture_group = french
+		}
+	}
+}
+
+song = {
+	name = "what_power_art_thou"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture_group = british }
+        }
+		modifier = {
+			factor = 2
+			culture_group = british
+		}
+	}
+}
+
+song = {
+	name = "abide_with_me"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture_group = british }
+        }
+		modifier = {
+			factor = 2
+			culture_group = british
+		}
+	}
+}
+
+song = {
+	name = "i_vow_to_thee_my_country"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture_group = british }
+        }
+		modifier = {
+			factor = 2
+			culture_group = british
+		}
+	}
+}
+
+song = {
+	name = "jerusalem"
+	
+	chance = {
+		modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture_group = british }
+        }
+		modifier = {
+			factor = 2
+			culture_group = british
+		}
+	}
+}
+
+song = {
+	name = "the_green_mountaineer"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "chester_overture"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1870 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1870
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "farewell_to_nova_scotia"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            culture = american
+        }
+		modifier = {
+            factor = 0
+            NOT = { culture_group = british }
+        }
+		modifier = {
+			factor = 2
+			culture_group = british
+		}
+	}
+}
+
+song = {
+	name = "yellow_rose_of_texas"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "the_rocky_road_to_dublin"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture_group = british }
+        }
+		modifier = {
+			factor = 2
+			culture_group = british
+		}
+	}
+}
+
+song = {
+	name = "scourge"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "alter_dessauer"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture_group = germanic }
+        }
+		modifier = {
+			factor = 2
+			culture_group = germanic
+		}
+	}
+}
+
+song = {
+	name = "hungarian_rhapsody"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "fruhlingsstimmen"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture_group = germanic }
+        }
+		modifier = {
+			factor = 2
+			culture_group = germanic
+		}
+	}
+}
+
+song = {
+	name = "viaggio_a_reims"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "roses_from_the_south"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "the_blue_danube"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "kaiser_walzer"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "lakme"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "entry_of_the_gods_into_valhalla"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "1812_overture"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1812 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1812
+		}
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "the_florentine_march"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "preobrazhensky_march"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture_group = east_slavic }
+        }
+		modifier = {
+			factor = 2
+			culture_group = east_slavic
+		}
+	}
+}
+
+song = {
+	name = "farewell_to_the_slavic"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture_group = east_slavic }
+        }
+		modifier = {
+			factor = 2
+			culture_group = east_slavic
+		}
+	}
+}
+
+song = {
+	name = "god_save_the_tzar_instrumental"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1812 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1812
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture_group = east_slavic }
+        }
+		modifier = {
+			factor = 2
+			culture_group = east_slavic
+		}
+	}
+}
+
+song = {
+	name = "columbia_gem_of_the_ocean"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "battle_hymn_of_the_republic"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "god_of_our_fathers"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "shenandoah"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "america_the_beautiful"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "who_are_the_brave"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "over_there"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "god_bless_america"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "deutschlandlied"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { tag = GER }
+        }
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+song = {
+	name = "koniggratzer_marsch"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture_group = germanic }
+        }
+		modifier = {
+			factor = 2
+			culture_group = germanic
+		}
+	}
+}
+
+song = {
+	name = "prussian_glory"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture_group = germanic }
+        }
+		modifier = {
+			factor = 2
+			culture_group = germanic
+		}
+	}
+}
+
+song = {
+	name = "chant_de_l_oignon"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+		modifier = {
+			factor = 2
+			culture_group = french
+		}
+	}
+}
+
+song = {
+	name = "letters_from_iwo_jima"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture_group = japanese_g }
+        }
+		modifier = {
+			factor = 2
+			culture_group = japanese_g
+		}
+	}
+}
+
+song = {
+	name = "land_of_rising_sun"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture_group = japanese_g }
+        }
+		modifier = {
+			factor = 2
+			culture_group = japanese_g
+		}
+	}
+}
+
+song = {
+	name = "japan_overture"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture_group = japanese_g }
+        }
+		modifier = {
+			factor = 2
+			culture_group = japanese_g
+		}
+	}
+}
+
+song = {
+	name = "empire_of_the_sun"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture_group = japanese_g }
+        }
+		modifier = {
+			factor = 2
+			culture_group = japanese_g
+		}
+	}
+}
+
+song = {
+	name = "dai_nippon_teikoku"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            NOT = { is_year = 1830 }
+        }
+		modifier = {
+			factor = 2
+			is_year = 1830
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture_group = japanese_g }
+        }
+		modifier = {
+			factor = 2
+			culture_group = japanese_g
+		}
+	}
+}
+
+############

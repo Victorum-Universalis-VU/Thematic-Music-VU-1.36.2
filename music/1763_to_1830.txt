@@ -1,0 +1,1049 @@
+#enlightenment_songs
+song = {
+	name = "american_anthem"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "yankee_doodle"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "yankee_doodle_instrumental"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "chester"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1763 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1763
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "the_spirit_of_76_part_1"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "the_spirit_of_76_part_2"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "the_spirit_of_76_part_3"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "the_spirit_of_76_part_4"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "the_spirit_of_76_part_5"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "the_spirit_of_76_part_6"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "the_spirit_of_76_part_7"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "the_spirit_of_76_part_8"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "the_spirit_of_76_part_9"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "the_spirit_of_76_part_10"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "the_spirit_of_76_part_11"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "the_spirit_of_76_part_12"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "the_spirit_of_76_part_13"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "the_spirit_of_76_part_14"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "the_spirit_of_76_part_15"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "the_spirit_of_76_part_16"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "the_spirit_of_76_part_17"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "the_spirit_of_76_part_18"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "the_spirit_of_76_part_19"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "the_spirit_of_76_part_20"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "the_spirit_of_76_part_21"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "the_spirit_of_76_part_22"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "the_spirit_of_76_part_23"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "the_baron_von_steuben"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "over_the_hills"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1763 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1763
+		}
+		modifier = {
+            factor = 0
+            culture = american
+        }
+		modifier = {
+            factor = 0
+            NOT = { culture_group = british }
+        }
+		modifier = {
+			factor = 2
+			culture_group = british
+		}
+	}
+}
+
+song = {
+	name = "road_to_boston"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "haste_to_the_wedding"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1763 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1763
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "washingtons_march"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "hail_columbia"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "star_spangled_banner"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1776 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1776
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "my_country_tis_of_thee"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1763 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1763
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "bound_for_the_promised_land"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1763 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1763
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = american }
+        }
+		modifier = {
+			factor = 2
+			culture = american
+		}
+	}
+}
+
+song = {
+	name = "preusens_gloria"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1763 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1763
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = prussian }
+        }
+		modifier = {
+			factor = 2
+			culture = prussian
+		}
+		modifier = {
+            factor = 0
+            NOT = { tag = GER }
+        }
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+song = {
+	name = "gott_erhalte_franz_den_kaiser"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1763 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1763
+		}
+		modifier = {
+            factor = 0
+            NOT = { tag = HAB }
+        }
+		modifier = {
+			factor = 2
+			tag = HAB
+		}
+	}
+}
+
+song = {
+	name = "radetzky_marsch"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1870
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1763 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1763
+		}
+		modifier = {
+            factor = 0
+            NOT = { tag = HAB }
+        }
+		modifier = {
+			factor = 2
+			tag = HAB
+		}
+	}
+}

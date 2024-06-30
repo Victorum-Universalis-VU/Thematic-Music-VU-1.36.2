@@ -1,0 +1,1007 @@
+#manufactories
+song = {
+	name = "no_twelve_in_f_minor"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "rondeau_from_abdelaze"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "il_barbiere_di_siviglia"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "adagio"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "three_equali"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "prelude_and_fugue_in_a_minor"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "partita_in_a_minor"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture = swedish }
+        }
+		modifier = {
+			factor = 2
+			culture = swedish
+		}
+	}
+}
+
+song = {
+	name = "drottningholm"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "l_engageante"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "dance_no_one_in_C_major"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "piano_trio_in_e_flat"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "gloria_in_excelsis_deo"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "concerto_in_c_minor"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "la_du_breuil"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "laudamus_te"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "mozart_string_quintet_part_a"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "mozart_string_quintet_part_b"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "mozart_string_quintet_part_c"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "mozart_string_quintet_part_d"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "hallelujah"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "lascia_ch_io_pianga"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "ombra_mai_fu"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "royal_fire_works_overture"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "royal_fire_works_la_rejouissance"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "royal_fire_works_minuet_i_ii"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "sarabande"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "dixit_dominus"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "juravit_dominus"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "zadok_the_priest"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "women_of_ireland"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            NOT = { OR = { culture = irish culture = anglo_irish } }
+        }
+		modifier = {
+			factor = 2
+			OR = { culture = irish culture = anglo_irish }
+		}
+	}
+}
+
+song = {
+	name = "the_british_grenadiers"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture_group = british }
+        }
+		modifier = {
+			factor = 2
+			culture_group = british
+		}
+	}
+}
+
+song = {
+	name = "laudamus_te_ii"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "last_of_the_mohicans"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1763
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1715 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1715
+		}
+		modifier = {
+            factor = 0
+            NOT = { culture_group = british }
+        }
+		modifier = {
+			factor = 2
+			culture_group = british
+		}
+	}
+}

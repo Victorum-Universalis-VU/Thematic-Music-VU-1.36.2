@@ -1,0 +1,496 @@
+#printing_press
+song = {
+	name = "les_folies_francaises_ou_les_dominos"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1715
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1649 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1649
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "allemande"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1715
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1649 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1649
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "gigua_a_l_angloise_and_menuet"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1715
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1649 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1649
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "furioso_alla_spagnuola_di_fabrizio_caroso_da_sermoneta"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1715
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1649 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1649
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "galliard_battaglia"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1715
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1649 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1649
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "gigua_a_l_angloise"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1715
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1649 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1649
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "spagnioletta"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1715
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1649 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1649
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "die_himmel_erzahlen_die_ehre_gottes"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1715
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1649 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1649
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "lachrimae"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1715
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1649 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1649
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "la_bavara"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1715
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1649 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1649
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "marche_pour_la_ceremonie_des_turcs"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1715
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1649 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1649
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "spagnoletta_ii"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1715
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1649 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1649
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "mrs_nichols_almand"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1715
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1649 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1649
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "sonata_in_d_minor"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1715
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1649 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1649
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "wellerman"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1715
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1649 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1649
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
+
+song = {
+	name = "palastinalied"
+	
+	chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1715
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1649 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1649
+		}
+		modifier = {
+            factor = 0
+            OR { religion = orthodox religion = coptic religion = miaphysite religion = bogomilist_new }
+        }
+		modifier = {
+            factor = 0
+            NOT = { religion_group = christian }
+        }
+		modifier = {
+			factor = 2
+			religion_group = christian
+		}
+	}
+}
