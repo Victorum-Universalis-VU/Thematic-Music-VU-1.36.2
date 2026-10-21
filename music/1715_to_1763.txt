@@ -203,11 +203,11 @@ song = {
 		}
 		modifier = {
             factor = 0
-            NOT = { culture = swedish }
+            NOT = { primary_culture = swedish }
         }
 		modifier = {
 			factor = 2
-			culture = swedish
+			primary_culture = swedish
 		}
 	}
 }
@@ -912,11 +912,11 @@ song = {
 		}
 		modifier = {
             factor = 0
-            NOT = { OR = { culture = irish culture = anglo_irish } }
+            NOT = { OR = { primary_culture = irish primary_culture = anglo_irish } }
         }
 		modifier = {
 			factor = 2
-			OR = { culture = irish culture = anglo_irish }
+			OR = { primary_culture = irish primary_culture = anglo_irish }
 		}
 	}
 }

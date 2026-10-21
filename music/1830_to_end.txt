@@ -128,11 +128,11 @@ song = {
 		}
 		modifier = {
             factor = 0
-            NOT = { culture = american }
+            NOT = { primary_culture = american }
         }
 		modifier = {
 			factor = 2
-			culture = american
+			primary_culture = american
 		}
 	}
 }
@@ -151,11 +151,11 @@ song = {
 		}
 		modifier = {
             factor = 0
-            NOT = { culture = american }
+            NOT = { primary_culture = american }
         }
 		modifier = {
 			factor = 2
-			culture = american
+			primary_culture = american
 		}
 	}
 }
@@ -174,7 +174,7 @@ song = {
 		}
 		modifier = {
             factor = 0
-            culture = american
+            primary_culture = american
         }
 		modifier = {
             factor = 0
@@ -201,11 +201,11 @@ song = {
 		}
 		modifier = {
             factor = 0
-            NOT = { culture = american }
+            NOT = { primary_culture = american }
         }
 		modifier = {
 			factor = 2
-			culture = american
+			primary_culture = american
 		}
 	}
 }
@@ -362,11 +362,11 @@ song = {
 		}
 		modifier = {
             factor = 0
-            NOT = { culture = american }
+            NOT = { primary_culture = american }
         }
 		modifier = {
 			factor = 2
-			culture = american
+			primary_culture = american
 		}
 	}
 }
@@ -592,11 +592,11 @@ song = {
 		}
 		modifier = {
             factor = 0
-            NOT = { culture = american }
+            NOT = { primary_culture = american }
         }
 		modifier = {
 			factor = 2
-			culture = american
+			primary_culture = american
 		}
 	}
 }
@@ -615,11 +615,11 @@ song = {
 		}
 		modifier = {
             factor = 0
-            NOT = { culture = american }
+            NOT = { primary_culture = american }
         }
 		modifier = {
 			factor = 2
-			culture = american
+			primary_culture = american
 		}
 	}
 }
@@ -638,11 +638,11 @@ song = {
 		}
 		modifier = {
             factor = 0
-            NOT = { culture = american }
+            NOT = { primary_culture = american }
         }
 		modifier = {
 			factor = 2
-			culture = american
+			primary_culture = american
 		}
 	}
 }
@@ -661,11 +661,11 @@ song = {
 		}
 		modifier = {
             factor = 0
-            NOT = { culture = american }
+            NOT = { primary_culture = american }
         }
 		modifier = {
 			factor = 2
-			culture = american
+			primary_culture = american
 		}
 	}
 }
@@ -684,11 +684,11 @@ song = {
 		}
 		modifier = {
             factor = 0
-            NOT = { culture = american }
+            NOT = { primary_culture = american }
         }
 		modifier = {
 			factor = 2
-			culture = american
+			primary_culture = american
 		}
 	}
 }
@@ -707,11 +707,11 @@ song = {
 		}
 		modifier = {
             factor = 0
-            NOT = { culture = american }
+            NOT = { primary_culture = american }
         }
 		modifier = {
 			factor = 2
-			culture = american
+			primary_culture = american
 		}
 	}
 }
@@ -730,11 +730,11 @@ song = {
 		}
 		modifier = {
             factor = 0
-            NOT = { culture = american }
+            NOT = { primary_culture = american }
         }
 		modifier = {
 			factor = 2
-			culture = american
+			primary_culture = american
 		}
 	}
 }
@@ -753,11 +753,11 @@ song = {
 		}
 		modifier = {
             factor = 0
-            NOT = { culture = american }
+            NOT = { primary_culture = american }
         }
 		modifier = {
 			factor = 2
-			culture = american
+			primary_culture = american
 		}
 	}
 }

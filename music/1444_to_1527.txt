@@ -660,11 +660,11 @@ song = {
 		}		
 		modifier = {
 			factor = 0
-			NOT = { OR = { culture = irish_german culture = anglo_irish culture_group = gaelic culture_group = unified_celtic_group } }
+			NOT = { OR = { primary_culture = irish_german primary_culture = anglo_irish culture_group = gaelic culture_group = unified_celtic_group } }
 		}
 		modifier = {
 			factor = 2
-			OR = { culture = irish_german culture = anglo_irish culture_group = gaelic culture_group = unified_celtic_group }
+			OR = { primary_culture = irish_german primary_culture = anglo_irish culture_group = gaelic culture_group = unified_celtic_group }
 		}
 	}
 }
